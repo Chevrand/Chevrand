@@ -1,4 +1,5 @@
-<h1 align="left">Olá, me chamo Wanderson! Seja bem vindo ao meu Git Hub! :grin:</h1>
+<h1 align="center">Olá, me chamo Wanderson! :grin:</h1>
+<h2 align="center">Seja bem vindo ao meu GitHub</h2>
 
 <div align="center">
    <img height="380em" src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm.gif"/>
