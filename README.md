@@ -2,7 +2,7 @@
 <h3 align="center">Seja bem vindo ao meu GitHub</h2>
 
 <div align="center">
-   <img >
+   <img width="380" src="assets/giphy.gif">
 </div>
 <div align="center">
 <a href="https://github.com/Chevrand">
