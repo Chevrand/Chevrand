@@ -1,7 +1,8 @@
 <h1 align="left">Olá, me chamo Wanderson! Seja bem vindo ao meu Git Hub! :grin:</h1>
 
 <div align="center">
-   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+   ##<img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+   <iframe src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm">via GIPHY</a></p>
 </div>
 <div align="center">
 <a href="https://github.com/Chevrand">
