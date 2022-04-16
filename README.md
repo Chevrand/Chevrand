@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Wanderson! :grin:</h1>
+<h2 align="center">Olá, me chamo Wanderson! :grin:</h2>
 <h3 align="center">Seja bem vindo ao meu GitHub</h2>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 </div>
   
-# Learning
+## Learning
   
 <div style="display: inline_block"><br>
 <img align="center" alt="Chevrand-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
