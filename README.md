@@ -3,7 +3,7 @@
 
 <div align="center">
    <br></br>
-   <img width="380" src="https://github.com/Chevrand/assets/blob/main/giphy.gif">
+   <img width="380" src="https://github.com/Chevrand/Chevrand/blob/main/.github/workflows/giphy.gif">
    <br></br>
 </div>
 <div align="center">
