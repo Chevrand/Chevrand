@@ -2,15 +2,17 @@
 <h3 align="center">Seja bem vindo ao meu GitHub</h2>
 
 <div align="center">
-   <br></br>
-   <img width="380" src="https://github.com/Chevrand/Chevrand/blob/main/.github/workflows/giphy.gif">
-   <br></br>
+Atualmente sou residente em TIC/Software no SERRATEC, buscando e aprendendo cada vez mais sobre o universo da programação. Sempre entusiasta da área de tecnologia, poder ter a oportunidade de estar me envolvendo neste mundo, agora como Desenvolvedor Full Stack, é a realização de um sonho. Embora ainda iniciante, sei que tenho muito a oferecer! Sou focado e sempre busco estar perto de conteúdos que possam expandir meu conhecimento. Estou à procura de oportunidades neste universo, a fim de poder adquirir cada vez mais experiência e ter contato com pessoas, assim como eu, apaixonadas por tecnologia e que buscam avançar cada vez mais.
 </div>
+
+<br>
+<img width="380" src="https://github.com/Chevrand/Chevrand/blob/main/.github/workflows/giphy.gif" align="center">
+<br>
+ 
 <div align="center">
 <a href="https://github.com/Chevrand">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Chevrand&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chevrand&layout=compact&langs_count=7&theme=nightowl"/>
-
 </div>
   
 ## Learning
