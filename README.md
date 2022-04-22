@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Wanderson!:grin:</h1>
 
 <h3 align="center">
-  Seja bem vindo ao meu GitHub
+  Seja bem vindo ao meu Git Hub
 </h3>
 
 ## About me
