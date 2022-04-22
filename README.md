@@ -1,5 +1,10 @@
-<h2 align="center">Olá, me chamo Wanderson! :grin:</h2>
-<h3 align="center">Seja bem vindo ao meu GitHub</h2>
+<h1 align="center">Olá, me chamo Wanderson!:grin:</h1>
+
+<h3 align="center">
+  Seja bem vindo ao meu GitHub
+</h3>
+
+## About me
 
 <div align="center">
   Atualmente sou residente em TIC/Software no SERRATEC, buscando e aprendendo cada vez mais sobre o universo da programação. Sempre entusiasta da área de tecnologia,     poder ter a oportunidade de estar me envolvendo neste mundo, agora como Desenvolvedor Full Stack, é a realização de um sonho. Embora ainda iniciante, sei que tenho     muito a oferecer! Sou focado e sempre busco estar perto de conteúdos que possam expandir meu conhecimento. Estou à procura de oportunidades neste universo, a fim de   poder adquirir cada vez mais experiência e ter contato com pessoas, assim como eu, apaixonadas por tecnologia e que buscam avançar cada vez mais.
