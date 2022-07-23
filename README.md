@@ -9,7 +9,7 @@
 <div align="center">
   Atualmente sou residente em TIC/Software no SERRATEC, buscando e aprendendo cada vez mais sobre o universo da programação. Sempre entusiasta da área de tecnologia,     poder ter a oportunidade de estar me envolvendo neste mundo, agora como Desenvolvedor Full Stack, é a realização de um sonho. Embora ainda iniciante, sei que tenho     muito a oferecer! Sou focado e sempre busco estar perto de conteúdos que possam expandir meu conhecimento. Estou à procura de oportunidades neste universo, a fim de   poder adquirir cada vez mais experiência e ter contato com pessoas, assim como eu, apaixonadas por tecnologia e que buscam avançar profissionalmente.
   <br></br>
-  <img width="1000" src="https://github.com/Chevrand/Chevrand/blob/main/.github/workflows/perfil.gif">
+  <img width="800" src="https://github.com/Chevrand/Chevrand/blob/main/.github/workflows/perfil.gif">
   <br></br>
 </div>
  
