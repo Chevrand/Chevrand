@@ -7,7 +7,7 @@
 ## Sobre mim
 
 <div align="center">
-  Atualmente sou residente em TIC/Software no SERRATEC, buscando e aprendendo cada vez mais sobre o universo da programação. Sempre entusiasta da área de tecnologia,     poder ter a oportunidade de estar me envolvendo neste mundo, agora como Desenvolvedor Full Stack, é a realização de um sonho. Embora ainda iniciante, sei que tenho     muito a oferecer! Sou focado e sempre busco estar perto de conteúdos que possam expandir meu conhecimento. Estou à procura de oportunidades neste universo, a fim de   poder adquirir cada vez mais experiência e ter contato com pessoas, assim como eu, apaixonadas por tecnologia e que buscam avançar profissionalmente.
+  Atualmente trabalho na Neki IT como Técnico em Desenvolvimento de Software, buscando e aprendendo cada vez mais sobre o universo da programação. Sempre entusiasta da área de tecnologia, poder hoje trabalhar na área é a realização de um sonho. Embora ainda iniciante, sou focado e procuro a todo momento estar perto de conteúdos que possam expandir meu conhecimento. Aprender coisas novas, crescer profissionalmente e ter contato com pessoas, assim como eu, apaixonadas por tecnologia são meus objetivos!
   <br></br>
   <img width="850" src="https://github.com/Chevrand/Chevrand/blob/main/.github/workflows/perfil.gif">
   <br></br>
