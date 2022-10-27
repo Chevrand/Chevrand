@@ -19,7 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chevrand&layout=compact&langs_count=7&theme=bear"/>
 </div>
   
-## Aprendendo
+## Skills
   
 <div align="center" style="display: inline_block">
   <img align="center" alt="Chevrand-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
