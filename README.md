@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Wanderson!:grin:</h1>
+<h1 align="center">Olá, me chamo Wanderson!</h1>
 
 <h3 align="center">
   Seja bem vindo ao meu perfil!
