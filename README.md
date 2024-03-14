@@ -26,7 +26,6 @@
   <img align="center" alt="Chevrand-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Chevrand-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Chevrand-Postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Chevrand-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Chevrand-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>   
   <img align="center" alt="Chevrand-Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Chevrand-Csharp" height="60" width="60" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png?raw=true" />
