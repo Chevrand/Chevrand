@@ -7,7 +7,7 @@
 ## Sobre mim
 
 <div align="center">
-  Atualmente trabalho na Neki IT como Desenvolvedor de Software Pleno, buscando e aprendendo cada vez mais sobre o universo da programação. Sempre entusiasta da área de tecnologia, poder hoje trabalhar na área é a realização de um sonho. Embora ultimamente eu esteja mais focado em trabalhos onde utilizo majoritariamente C# (.Net), também possuo conhecimentos e experiência com Java (Springboot), React e Angular. Aprender coisas novas, crescer profissionalmente e ter contato com pessoas, assim como eu, apaixonadas por tecnologia são meus objetivos!
+  Atualmente trabalho na Neki IT como Desenvolvedor de Software Pleno, buscando e aprendendo cada vez mais sobre o universo da programação. Sempre entusiasta da área de tecnologia, poder hoje trabalhar na área é a realização de um sonho. Embora ultimamente eu esteja mais focado em trabalhos onde utilizo majoritariamente Java (Springboot), também possuo conhecimentos e experiência com C# (.Net), React e Angular. Aprender coisas novas, crescer profissionalmente e ter contato com pessoas, assim como eu, apaixonadas por tecnologia são meus objetivos!
   <br></br>
   <img width="850" src="https://github.com/Chevrand/Chevrand/blob/main/.github/workflows/perfil.gif">
   <br></br>
